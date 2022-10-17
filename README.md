@@ -1,0 +1,42 @@
+# tt0308.github.io<div class="main">
+  <div class="copy-container">
+    <h1>Tech0 第3期生</h1>
+    <h2>田中哲哉(Tetsuya Tanaka)</h2>
+  </div>
+  
+  <div class="contents">
+    <h3 class="section-title">Profile</h3>
+    <div class="copy-container">
+    <h4>2022年　上智大学卒</h4>
+    <h5>2022年  長瀬産業入社</h5>
+      </div>
+    
+ 
+  
+  <div class="contact-form">
+    <h3 class="section-title">Contact</h3>
+    <p>メールアドレス（必須）</p>
+    <!-- <input>要素を追加してください -->
+    <input>
+    
+    <p>お問い合わせ内容（必須）</p>
+    <!-- <textarea>要素を追加してください -->
+    <textarea></textarea>
+    
+    <p>※必須項目は必ずご入力ください</p>
+    <!-- <input>要素を追加してください -->
+    <input class="contact-submit" type="submit" value="送信">
+    
+  </div>
+</div>
+
+<div class="footer">
+  <div class="footer-logo">Progate</div>
+  <div class="footer-list">
+    <ul>
+      <li>Instagram</li>
+      <li>Facebook</li>
+      <li>Twitter</li>
+    </ul>
+  </div>
+</div>
